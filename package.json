@@ -1,0 +1,10 @@
+{
+    "name": "iamx-nodejs-wallet",
+    "version": "1.0.0",
+    "author": "Dennis Mittmann <dennis@iamx.i>",
+    "license": "MIT",
+    "scripts": {
+      "dev": "webpack serve --open"
+    }
+  }
+  
